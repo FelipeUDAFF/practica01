@@ -1,0 +1,82 @@
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.card {
+  justify-content: center;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.body{
+	background: white;
+}
+
+.pintar{
+	background: white;
+}
+
+.final{
+	background: gray;
+}
+
+.texto{
+	background: white;
+}
+.progress{
+	margin: 40px;
+}
+
+.HTML5{
+	margin:-30px;
+	position:absolute;left:8%;/*posicion de la letra*/
+}
+.HABILIDADES{
+	margin:40px;
+}
+
+.SobreMi{
+	margin:40px;
+}
+.CSS3{
+	margin:-30px;
+	position:absolute;left:7%;/*posicion de la letra*/
+}
+
+.PORTAFOLIO1{
+	margin-left: -200px; 
+	height:400px;/*altura*/
+}
+
+.PORTAFOLIO2{
+	margin-left: 100px; 
+	height:400px;/*altura*/
+
+}
+.PORTAFOLIO3{
+	margin-left: 270px; 
+}
+
+.VisitarWeb2{
+	position:absolute;right:-70%;/*posicion de la letra*/
+	margin: 15px;
+}
+.CONTATACTAME{
+	margin: 40px:;
+}
+
+.b{
+	margin: 100px;
+	padding: 100px;
+}
+.p1{
+	size: 100px;
+}
+footer{
+background: gray;
+}
